@@ -1,0 +1,1 @@
+This is a (RAG) chatbot built using Next.js, Google Gemini, and Pinecone. Scrapes website text from sitemap URLs.Stores processed text locally as JSON.Converts text into embeddings using Google Gemini model text-embedding-004.Stores in Pinecone.
