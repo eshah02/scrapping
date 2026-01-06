@@ -1,4 +1,4 @@
-This is a (RAG) chatbot built using next.js Google Gemini, and Pinecone.
+This is a (RAG) chatbot built using next.js, Google Gemini, and Pinecone.
 It scrapes documentation content from resend.com, processes it using Google Gemini embeddings, and stores it in Pinecone.
 
 Tech Stack:
